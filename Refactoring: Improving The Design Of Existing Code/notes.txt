@@ -9,3 +9,11 @@ Chapter 1
 
 	- Before you start refactoring, check that you have a solid suite of tests. These tests must
 		be self checking.
+
+	- Refactoring changes the program in small steps. If you make a mistake, it is easy to find 
+		the bug.
+
+	- Any fool can write code that a computer can understand. Good programmers write code that
+		humans can understand.
+
+Chapter 2
